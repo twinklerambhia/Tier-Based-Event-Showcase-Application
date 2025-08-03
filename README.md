@@ -79,7 +79,9 @@ You can log in with the following test accounts (or create your own):
 
 ## 🌐 Live Demo
 
-🔗 [**Click here to view the deployed app on Vercel**](https://tier-based-event-showcaseapp.vercel.app/)
+🔗 [**Click here to view the deployed app on Vercel and sign up**](https://tier-based-event-showcaseapp.vercel.app/sign-up)
+---
+🔗 [**Click here to sign in**](https://tier-based-event-showcaseapp.vercel.app/sign-in)
 
 ---
 
